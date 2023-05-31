@@ -1,0 +1,101 @@
+emailNo, keyword, length, header, isSpam
+1, offerta,lunga,no,si
+2, offerta,lunga,no,si
+3, offerta,corta,no,si
+4, offerta,media,si,si
+5, offerta,media,si,no
+6, offerta,corta,no,no
+7, offerta,lunga,si,si
+8, offerta,corta,no,si
+9, viagra,lunga,si,si
+10, viagra,media,no,si
+11, viagra,lunga,no,si
+12, viagra,corta,si,si
+13, viagra,corta,no,si
+14, viagra,media,si,si
+15, money,corta,no,si
+16, money,lunga,si,no
+17, money,lunga,si,no
+18, money,corta,no,si
+19, money,corta,no,no
+20, money,media,no,no
+21,ricetta,lunga,si,no
+22,ricetta,corta,si,no
+23,ricetta,media,no,no
+24,ricetta,lunga,si,no
+25,ricetta,corta,si,no
+26,ricetta,lunga,no,no
+27, appuntamento,media,no,no
+28, appuntamento,corta,no,no
+29, appuntamento,lunga,no,si
+30, appuntamento,corta,si,no
+31, appuntamento,lunga,si,no
+32, appuntamento,corta,si,no
+33, diamanti,corta,no,si
+34, diamanti,corta,si,si
+35, diamanti,media,no,si
+36, diamanti,corta,no,si
+37, diamanti,corta,si,si
+38, dottore,media,si,no
+39, dottore,corta,no,no
+40, dottore,corta,no,no
+41, dottore,lunga,no,no
+42, dottore,lunga,si,no
+43, visita,lunga,no,no
+44, visita,corta,si,no
+45, visita,corta,no,no
+46, visita,corta,no,no
+47, visita,lunga,no,si
+48, visita,corta,si,no
+49, insubria,media,no,no
+50, insubria,lunga,si,no
+51, insubria,corta,si,no
+52, insubria,lunga,si,no
+53, insubria,media,no,no
+54, big data,lunga,si,no
+55, big data,corta,si,no
+56, big data,corta,si,no
+57, big data,media,no,no
+58, big data,lunga,si,no
+59, big data,lunga,no,no
+60, newsletter,media,no,si
+61, newsletter,lunga,no,si
+62, newsletter,media,si,no
+63, newsletter,lunga,no,si
+64, newsletter,lunga,no,si
+65, newsletter,corta,si,no
+66, newsletter,media,no,si
+67, donne single,corta,no,si
+68, donne single,corta,no,si
+69, donne single,corta,si,si
+70, donne single,media,no,si
+71, donne single,corta,no,si
+72, contratto,lunga,si,no
+73, contratto,lunga,si,no
+74, contratto,corta,si,no
+75, contratto,corta,si,no
+76, contratto,media,no,no
+77, contratto,corta,no,si
+78, poste italiane,media,si,no
+79, poste italiane,corta,si,no
+80, poste italiane,corta,no,no
+81, poste italiane,media,si,no
+82, poste italiane,lunga,no,si
+83, poste italiane,corta,no,si
+84, poste italiane,media,si,no
+85, lezioni,corta,si,no
+86, lezioni,lunga,si,no
+87, lezioni,media,no,no
+88, lezioni,corta,no,no
+89, lezioni,lunga,si,no
+90,bolletta,media,si,no
+91,bolletta,media,si,no
+92,bolletta,corta,no,no
+93,bolletta,media,si,no
+94,bolletta,corta,no,no
+95,bolletta,media,si,no
+96,bitcoin,media,si,si
+97,bitcoin,media,si,si
+98,bitcoin,media,si,si
+99,bitcoin,corta,no,si
+100,bitcoin,corta,si,si
